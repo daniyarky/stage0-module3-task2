@@ -2,7 +2,7 @@ package lang.print.gaps.task2;
 
  class AdvancedNamingConvention {
     public static void main(String[] args){
-         final int adult_age = 18;
+         final int ADULT_AGE = 18;
 
         int AGE;
         int phoneNumber;
